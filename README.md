@@ -93,6 +93,6 @@ Graduate project from Duke University's Master of Quantitative Management in Bus
 ## Connect
 
 - LinkedIn: www.linkedin.com/in/beatriz-lassise2026
-- Email: bea.lassise@gmail.com
+
 
 ---
